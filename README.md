@@ -23,5 +23,5 @@ I'm a passionate **Full-Stack Web Developer** with experience in building scalab
 <a href="mailto:nagothuteja@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
 </a>
-
+<br/><br/>
 🚀 Always eager to learn, build, and collaborate on exciting projects!
