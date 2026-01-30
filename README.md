@@ -14,8 +14,14 @@ I'm a passionate **Full-Stack Web Developer** with experience in building scalab
 - **Developer Tools:** VS Code, GitHub, Git, Post Man
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Surya Teja](https://www.linkedin.com/in/suryatejanagothu/)
-- **GitHub:** [NagothuSuryaTeja](https://github.com/NagothuSuryaTeja)
-- **Email:** nagothuteja@gmail.com
+<a href="https://www.linkedin.com/in/suryatejanagothu/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/NagothuSuryaTeja" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+</a>
+<a href="mailto:nagothuteja@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+</a>
 
 🚀 Always eager to learn, build, and collaborate on exciting projects!
